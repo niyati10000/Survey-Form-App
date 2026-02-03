@@ -33,6 +33,11 @@ The application separates UI text from logic. All survey questions and response 
 ### Logic (`MainActivity.java`)
 The main activity handles the application lifecycle and view initialization. It maintains the state of selected answers using String variables and updates them dynamically via listeners attached to the UI components.
 
+
+## screenshot of app
+<img width="621" height="508" alt="image" src="https://github.com/user-attachments/assets/7f383739-561a-4eca-9515-18ff06b53cec" />
+
+
 ## Setup and execution
 
 1.  Clone the repository:
