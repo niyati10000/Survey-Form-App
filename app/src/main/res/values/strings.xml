@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">survay form</string>
+    <string name="wel_text">welcome to the our survay!!</string>
+    <string name="choice">do you want to participate??</string>
+    <string name="choice_ans1">yes</string>
+    <string name="choice_ans2">no</string>
+    <string name="que1">Did you find the app easy to use?</string>
+    <string name="ans1_choice1">yes</string>
+    <string name="ans1_choice2">no</string>
+    <string name="que2">Would you recommend this app to others?</string>
+    <string name="ans2_choice1">yes</string>
+    <string name="ans2_choice2">no</string>
+    <string name="que3">Was the content helpful and clear?</string>
+    <string name="ans3_choice1">yes</string>
+    <string name="ans3_choice2">no</string>
+    <string name="que4">Do you plan to use the app again?</string>
+    <string name="ans4_choice1">yes</string>
+    <string name="ans4_choice2">no</string>
+    <string name="button1">Submit</string>
+    <string name="button2">Reset</string>
+
+</resources>
